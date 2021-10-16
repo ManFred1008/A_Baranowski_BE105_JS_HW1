@@ -1,3 +1,4 @@
+console.log("");
 console.log('-------Task5-SKruga-------');
 
 let r = 5;

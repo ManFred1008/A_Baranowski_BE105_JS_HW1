@@ -1,3 +1,4 @@
+console.log("");
 console.log('-------Task6-STrap-------');
 
 let a = 5,

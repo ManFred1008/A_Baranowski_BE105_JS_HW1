@@ -1,3 +1,4 @@
+console.log("");
 console.log('------Task2------');
 
 let a1 = 5 % 3;

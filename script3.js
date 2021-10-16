@@ -1,3 +1,4 @@
+console.log("");
 console.log('-------Task3-SPryam-------');
 
 let width = 23,

@@ -1,3 +1,4 @@
+console.log("");
 console.log('-------Task7-Pereplata-------');
 
 let S = 2000000,

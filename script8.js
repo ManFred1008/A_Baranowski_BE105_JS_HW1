@@ -1,3 +1,4 @@
+console.log("");
 console.log('-------Task8-xxxxxxxxxx-------');
 
 a = 8;
